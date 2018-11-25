@@ -1,0 +1,7 @@
+project:
+    name: NSGP
+    package:
+        name:  NSGP
+        api_version: '43.0'
+
+
