@@ -1,0 +1,15 @@
+//THis makes the default Theme wider
+
+.siteforceServiceBody .cCenterPanel {
+max-width: 100% !important;
+}
+.forceCommunityFeedPublisher {
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+.forceCommunityForceCommunityFeed {
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
